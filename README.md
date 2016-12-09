@@ -1,2 +1,2 @@
 # nampq2.github.io
-make a website!.
+I have just make a website!.
